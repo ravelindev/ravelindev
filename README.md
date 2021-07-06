@@ -2,7 +2,8 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning the MERN stack.
 - 💞️ I’m looking to collaborate on some basic project on html,css and bascis js.
-- 📫 How to reach me ravelindev@gmail.com
+- 📫 How to reach me ravelindev@gmail.com 
+- I love to builds stuff. 
 
 <!---
 ravelindev/ravelindev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
